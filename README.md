@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Kadu
  <div>
-  <a href="https://github.com/krowssey">
+  <a href="https://github.com/Krowssey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krowssey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krowssey&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
